@@ -1,0 +1,7 @@
+1. entire space
+2. Initial locations
+3. Initial cells
+4. Current cells --> flood fused location
+5. Adjacency matrix for 3 and 4
+6. Interpolate rate of change for 4,3
+7. Initiate plot for 1-4
